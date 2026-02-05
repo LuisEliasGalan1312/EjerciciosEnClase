@@ -28,7 +28,6 @@ public class Menu {
                     System.out.println("\n--- [Ejercicio 3: Ocultamiento de Atributos] ---");
                     A objeto = new B();
                     System.out.println("Valor de x: " + objeto.x);
-                    System.out.println("Nota: Se muestra 10 porque en atributos manda el tipo de referencia (A).");
                     break;
                 case 4:
                     System.out.println("Ejecutando 4...");
