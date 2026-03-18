@@ -1,0 +1,7 @@
+========================================
+REPORTE DE PROCESAMIENTO DE ARCHIVOS
+========================================
+----------------------------------------
+Total de palabras procesadas: 0
+Tiempo de procesamiento: 16 ms
+========================================
